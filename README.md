@@ -4,3 +4,7 @@ Over ten years of experience in software development in enterprise-scale project
 Considerable experience in architecture, design concepts, and practices with Domain-Centric approach and solid principles. Extensive experience in agile software development with Scrum methodology using version control systems and performing thorough testing protocols. Adept at writing efficient and well-designed codes by using development practices and clean code principles.
 
 Knowledgeable in all aspects of math, science, engineering, and design. Committed to producing high-quality, user-friendly, scalable, and bug-free software. Strong understanding of standard web technologies, languages, and frameworks.
+
+
+# Status
+[![Build Status](https://dev.azure.com/ayyubamini/AzurePipelines/_build)](https://dev.azure.com/ayyubamini/AzurePipelines/_build)
