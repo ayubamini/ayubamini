@@ -5,6 +5,3 @@ Considerable experience in architecture, design concepts, and practices with Dom
 
 Knowledgeable in all aspects of math, science, engineering, and design. Committed to producing high-quality, user-friendly, scalable, and bug-free software. Strong understanding of standard web technologies, languages, and frameworks.
 
-
-# Status
-[![Build Status](https://dev.azure.com/ayyubamini/AzurePipelines/_build)](https://dev.azure.com/ayyubamini/AzurePipelines/_build)
